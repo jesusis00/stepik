@@ -1,5 +1,5 @@
 Мой первый репозиторий
 SSH push test
-Untesnig
+testing
 Commit test
 Add line
